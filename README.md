@@ -1,5 +1,3 @@
-Certainly! Below is a sample **README** file for your project:
-
 ---
 
 # Eye Disease Detection using Deep Learning
@@ -38,6 +36,7 @@ Eye diseases pose a significant health concern worldwide, impacting millions of 
 - `utils/`: Utility functions for data preprocessing and visualization.
 - `requirements.txt`: Dependencies for reproducing the environment.
 - `main.py`: Script for model training and prediction.
+- `https://drive.google.com/drive/folders/1enudnO9MVHjvwgi_ABaulAjBfNv2ch5V?usp=drive_link` Dataset ustilized for the project
 
 ## Getting Started
 
