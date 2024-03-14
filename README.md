@@ -4,7 +4,7 @@
 
 ## Overview
 
-Eye diseases pose a significant health concern worldwide, impacting millions of individuals. Early identification and treatment are crucial to prevent vision loss and blindness. However, manual diagnosis from medical photographs is time-consuming and challenging, even for experts. Deep learning offers a promising solution by revolutionizing eye disorder detection and diagnosis. In this project, we explore the use of deep learning models to accurately diagnose eye illnesses from fundus images and optical coherence tomography (OCT) images. Our goal is to achieve earlier detection and improved patient outcomes.
+Eye diseases pose a significant health concern worldwide, impacting millions of individuals. Early identification and treatment are crucial to prevent vision loss and blindness. However, manual diagnosis from medical photographs is time-consuming and challenging, even for experts. Deep learning offers a promising solution by revolutionizing eye disorder detection and diagnosis. In this project, we explore the use of deep learning models to accurately diagnose eye illnesses from fundus images and optical coherence tomography (OCT) images. Our goal is to achieve earlier detection and improved patient outcomes by using some efficient new algorithms such as EfficientNetB7.
 
 ## Challenges
 
