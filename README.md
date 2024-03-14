@@ -30,13 +30,9 @@ Eye diseases pose a significant health concern worldwide, impacting millions of 
 
 ## Project Structure
 
-- `data/`: Contains eye disease images (fundus and OCT).
-- `notebooks/`: Jupyter notebooks for data exploration, model training, and evaluation.
-- `models/`: Saved model checkpoints.
-- `utils/`: Utility functions for data preprocessing and visualization.
 - `requirements.txt`: Dependencies for reproducing the environment.
 - `main.py`: Script for model training and prediction.
-- `https://drive.google.com/drive/folders/1enudnO9MVHjvwgi_ABaulAjBfNv2ch5V?usp=drive_link` Dataset ustilized for the project
+- `https://drive.google.com/drive/folders/1enudnO9MVHjvwgi_ABaulAjBfNv2ch5V?usp=drive_link` Dataset ustilized for the project contains eye disease images (fundus and OCT).
 
 ## Getting Started
 
@@ -47,19 +43,13 @@ Eye diseases pose a significant health concern worldwide, impacting millions of 
 
 2. Prepare your dataset (fundus images and OCT scans).
 
-3. Explore the notebooks in `notebooks/` for data analysis and model development.
+3. Train your deep learning model using the chosen architecture.
 
-4. Train your deep learning model using the chosen architecture.
-
-5. Evaluate model performance and interpret predictions.
+4. Evaluate model performance and interpret predictions.
 
 ## Acknowledgments
 
 We thank the open-source community for sharing eye disease datasets and research.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
